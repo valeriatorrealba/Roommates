@@ -1,17 +1,17 @@
 # Desafío evaluado - Roommates
 
-Es bien sabido que entre las mejores recomendaciones que un programador amateur puede
-recibir para mejorar sus habilidades es “crear aplicaciones”, sin darle tanta importancia a la
-temática a elaborar, sino que solo basta con un problema para desarrollar una solución digital.
-En esta prueba deberás crear un servidor con Node que sirva una interfaz HTML  y cuya temática está basada en el registro
-de gastos entre roommates.
-Además deberás servir una API REST que permita hacer lo siguiente:
+En este desafío, debes crear un servidor con Node.js que sirva una interfaz HTML para la gestión de gastos entre roommates. Además, deberás implementar una API REST para gestionar roommates y gastos.
 
-  - Almacenar roommates nuevos ocupando random user.
-  - Devolver todos los roommates almacenados.
-  - Registrar nuevos gastos.
-  - Devolver el historial de gastos registrados.
-  - Modificar la información correspondiente a un gasto.
-  - Eliminar gastos del historial.
+## Descripción
+
+El objetivo es desarrollar un servidor que maneje la creación, consulta, actualización y eliminación de roommates y gastos. La interfaz HTML proporcionada en el archivo "Apoyo Desafío - Roommates" será utilizada para interactuar con el servidor.
+
+## Vista del Diseño
+
+A continuación, se muestra una imagen de la interfaz cliente preparada para interactuar con el servidor:
 
 ![roommates](screenshot/roommates.png)
+
+## Autor
+
+Este proyecto fue desarrollado por **Valeria Torrealba**.
